@@ -210,6 +210,7 @@ _x	ₓ	0
 \mathbbR	ℝ	0
 \mathbbZ	ℤ	0
 ###\mathcal-------------
+\calE	ℰ	0
 \mathcalE	ℰ	0
 \mathcalF	ℱ	0
 \mathcalg	ℊ	0
